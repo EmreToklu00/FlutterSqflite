@@ -8,7 +8,7 @@ This repository will teach you how to integrate SQFLite in any existing applicat
 
 <div align="center">
   <img src="https://github.com/EmreToklu00/fluttersqflite/blob/main/github/folder.png" width="300" height="500">
-  <img src="https://github.com/EmreToklu00/fluttersqflite/blob/main/github/pubspec.png" width="500" height="500">
+  <img src="https://github.com/EmreToklu00/fluttersqflite/blob/main/github/pubspec.png" width="400" height="500">
 </div>
 
 

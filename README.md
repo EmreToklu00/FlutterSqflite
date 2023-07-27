@@ -11,6 +11,8 @@ This repository will teach you how to integrate SQFLite in any existing applicat
   <img src="https://github.com/EmreToklu00/fluttersqflite/blob/main/github/pubspec.png">
 </div>
 
+(https://via.placeholder.com/468x300?text=https://github.com/EmreToklu00/fluttersqflite/blob/main/github/folder.png)
+
 
 ## Run on Your Computer
 
